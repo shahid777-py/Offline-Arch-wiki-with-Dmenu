@@ -10,7 +10,7 @@ It's a simple script to open archwiki docs html pages using dmenu.
 - dmenu
 `sudo pacman -S dmenu`
 ***
-! [Screenshots](~/Screen_Cast/outz.mp4)
+! [Screenshots](./mpv-shot0001.jpg)
 
 
 
